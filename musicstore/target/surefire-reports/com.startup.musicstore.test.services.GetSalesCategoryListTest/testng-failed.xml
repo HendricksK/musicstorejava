@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.startup.musicstore.test.services.GetSalesCategoryListTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.startup.musicstore.test.services.GetSalesCategoryListTest">
+        <methods>
+          <include name="hello"/>
+          <include name="tearDownClass"/>
+          <include name="setUpMethod"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- com.startup.musicstore.test.services.GetSalesCategoryListTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.startup.musicstore.test.services.GetSalesCategoryListTest] -->

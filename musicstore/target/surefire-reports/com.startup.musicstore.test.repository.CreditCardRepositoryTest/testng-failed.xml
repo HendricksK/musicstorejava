@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.startup.musicstore.test.repository.CreditCardRepositoryTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.startup.musicstore.test.repository.CreditCardRepositoryTest">
+        <methods>
+          <include name="createCreditCard"/>
+          <include name="deleteCreditCard"/>
+          <include name="updateCreditCard"/>
+          <include name="setUpClass"/>
+          <include name="readCreditCard"/>
+        </methods>
+      </class> <!-- com.startup.musicstore.test.repository.CreditCardRepositoryTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.startup.musicstore.test.repository.CreditCardRepositoryTest] -->

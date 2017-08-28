@@ -1,0 +1,3 @@
+com\startup\musicstore\test\ConnectionConfigTest.class
+com\startup\musicstore\test\repository\CreditCardRepositoryTest.class
+com\startup\musicstore\test\services\CreditCardSampleServiceTest.class

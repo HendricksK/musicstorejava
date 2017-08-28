@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.startup.musicstore.test.repository.OrderRepositoryTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.startup.musicstore.test.repository.OrderRepositoryTest">
+        <methods>
+          <include name="create"/>
+          <include name="delete"/>
+          <include name="read"/>
+          <include name="setUpClass"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpMethod"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.startup.musicstore.test.repository.OrderRepositoryTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.startup.musicstore.test.repository.OrderRepositoryTest] -->

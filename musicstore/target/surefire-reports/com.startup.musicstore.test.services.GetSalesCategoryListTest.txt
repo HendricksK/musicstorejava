@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.startup.musicstore.test.services.GetSalesCategoryListTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.37 sec <<< FAILURE!
+hello(com.startup.musicstore.test.services.GetSalesCategoryListTest)  Time elapsed: 0.157 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.startup.musicstore.services.Impl.GetSalesCategoryListImpl.getList(GetSalesCategoryListImpl.java:38)
+	at com.startup.musicstore.test.services.GetSalesCategoryListTest.hello(GetSalesCategoryListTest.java:67)
